@@ -17,8 +17,8 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/asseph/pumpfun-smart-contract-solana.git
-   cd pumpfun-smart-contract-solana
+   git clone https://github.com/AnotherRusty/Meteora-Pumpfun-Smart-Contract.git
+   cd Meteora-Pumpfun-Smart-Contract
    ```
 2. Install dependencies:
    ```
